@@ -41,7 +41,7 @@ I'm a graphic designer with 11 years of experience in web development and design
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma">
 </div>
 
-### 💻 Web Development Tools
+### 💻 IDE & Web Development Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Android%20Studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2b%2b&logoColor=black" alt="Notepad++">
