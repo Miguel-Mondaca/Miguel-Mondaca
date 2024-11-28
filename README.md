@@ -11,6 +11,7 @@ I'm a graphic designer with 11 years of experience in web development and design
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Phaser-0078d7.svg?style=flat-square&logo=phaser&logoColor=white" alt="Phaser">
 </div>
 
 ### ⚙️ Backend
