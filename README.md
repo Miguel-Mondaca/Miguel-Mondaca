@@ -1,5 +1,5 @@
 # Hey, I'm Miguel! 👨‍💻  
-I'm a graphic designer with 11 years of experience in web development and design. Over the years, I’ve developed projects across various industries, including education, hospitality, media, and more. My passion for digital design began at the age of 11 when I built my first website, and I've continued to evolve ever since to stay ahead of industry trends.
+I'm a graphic designer with 13 years of experience in web development and design. Over the years, I’ve developed projects across various industries, including education, hospitality, media, and more. My passion for digital design began at the age of 11 when I built my first website, and I've continued to evolve ever since to stay ahead of industry trends.
 
 ## 🔧 Tech Stack & Toolkits
 
