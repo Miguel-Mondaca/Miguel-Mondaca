@@ -11,9 +11,6 @@ I'm a graphic designer with 14 years of experience in web development and design
 
 Let’s connect!
 
-📧 [Contact me](mailto:miguelmondacag89@gmail.com)  
-🌐 [Portfolio](https://miguelmondaca.cl)
-
 ## 🔧 Tech Stack & Toolkits
 
 ### 🌐 Frontend
