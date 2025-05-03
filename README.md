@@ -1,6 +1,14 @@
 # Hey, I'm Miguel! 👨‍💻  
 I'm a graphic designer with 13 years of experience in web development and design. Over the years, I’ve developed projects across various industries, including education, hospitality, media, and more. My passion for digital design began at the age of 11 when I built my first website, and I've continued to evolve ever since to stay ahead of industry trends.
 
+## 🌍 Currently available for freelance projects worldwide
+
+If you are looking for:
+
+- A strong collaborator who understands both design and development.
+- Someone who can create fast, accessible and SEO-friendly websites.
+- A partner to transform your brand digitally.
+
 ## 🔧 Tech Stack & Toolkits
 
 ### 🌐 Frontend
