@@ -5,9 +5,9 @@ I'm a graphic designer with 13 years of experience in web development and design
 
 **If you are looking for someone who can:**
 
-- ✅ Blend design and development seamlessly.
-- ✅ Build fast, SEO-friendly and responsive websites.
-- ✅ Bring your digital brand to life with a thoughtful, user-first approach.
+✅ Blend design and development seamlessly.
+✅ Build fast, SEO-friendly and responsive websites.
+✅ Bring your digital brand to life with a thoughtful, user-first approach.
 
 Let’s connect!
 
